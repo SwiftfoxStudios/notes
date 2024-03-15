@@ -1,0 +1,1 @@
+> A subset of a vector space $V$ is a basis iff its elements are **[[Linear Independence|linearly independent]]** and **span $V$**.
