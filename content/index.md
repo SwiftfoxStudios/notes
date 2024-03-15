@@ -7,10 +7,10 @@ Not all pages are complete, or contain all the required information, but are gen
 
 The modules shown here are:
 # [[Year-3/CS313|CS313 (Mobile Robotics)]]
-# CS331 (Neural Computing)
-# CS345 (Sensor Networks)
-# CS352 (Project Management)
-# CS355 (Digital Forensics)
+# [[Year-3/CS331|CS331 (Neural Computing)]]
+# [[Year-3/CS345|CS345 (Sensor Networks)]]
+# [[Year-3/CS352|CS352 (Project Management)]]
+# [[Year-3/CS355|CS355 (Digital Forensics)]]
 
 ## How to use?
 These notes are **not** in chronological or lecture order - they are more similar to a *mind map* or *wiki* - that is, each concept large enough to have a distinct page, has a distinct page.
