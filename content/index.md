@@ -6,7 +6,7 @@ If something is incorrect, [email me](mailto:antonio.brito@warwick.ac.uk)!
 Not all pages are complete, or contain all the required information, but are generally tailored to content you'd be expected to know in the exam.
 
 The modules shown here are:
-# [[CS313|CS313 (Mobile Robotics)]]
+# [[Year-3/CS313|CS313 (Mobile Robotics)]]
 # CS331 (Neural Computing)
 # CS345 (Sensor Networks)
 # CS352 (Project Management)
